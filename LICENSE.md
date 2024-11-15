@@ -1,3 +1,19 @@
+# Licença Proprietária para DoCarmo Acolhe
+
+Copyright (C) 2024, Mateus Antonio Ramos da Silva. Todos os direitos reservados.
+
+Este repositório e todo o seu conteúdo (código, documentação, design, ideias e conceitos) são protegidos por direitos autorais e são propriedade exclusiva de Mateus Antonio Ramos da Silva. A reprodução, distribuição, exibição pública ou modificação deste conteúdo são estritamente proibidas sem permissão expressa do autor.
+
+## Termos de Uso
+- **Proibição de Uso Comercial**: O conteúdo deste repositório não pode ser usado para fins comerciais sem permissão expressa por escrito.
+- **Proibição de Reprodução e Cópia**: A reprodução, cópia ou redistribuição do código, ideias e conceitos aqui contidos são proibidas.
+- **Proibição de Modificação e Distribuição**: A modificação ou criação de trabalhos derivados baseados neste projeto, para qualquer fim, não é permitida sem autorização prévia.
+
+## Exceções e Permissões Especiais
+Caso você esteja interessado em colaborar ou utilizar parte deste projeto para fins educacionais ou de pesquisa, entre em contato com o autor para discutir permissões específicas.
+
+---
+
 Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International
 
 Você é livre para:
