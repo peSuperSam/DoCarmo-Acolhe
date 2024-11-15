@@ -34,9 +34,17 @@ Sinta-se à vontade para acompanhar o desenvolvimento e contribuir com ideias e 
 
 ## Licença
 
-Este projeto está licenciado sob a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0). Você pode visualizar a licença completa [aqui](https://creativecommons.org/licenses/by-nc-nd/4.0/).
+Este projeto está protegido por uma **Licença Proprietária** e pela **Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)**. 
 
-**Resumo**:
-- **Atribuição**: Você deve dar o crédito apropriado ao autor.
-- **Não Comercial**: Não é permitido o uso para fins comerciais.
-- **Sem Derivações**: Não é permitida a modificação, adaptação ou criação de derivados deste projeto.
+### Licença Proprietária para DoCarmo Acolhe
+Copyright (C) 2024, Mateus Antonio Ramos da Silva. Todos os direitos reservados.
+
+Este repositório e todo o seu conteúdo (código, documentação, design, ideias e conceitos) são protegidos por direitos autorais e são propriedade exclusiva de Mateus Antonio Ramos da Silva. A reprodução, distribuição, exibição pública ou modificação deste conteúdo são estritamente proibidas sem permissão expressa do autor.
+
+- **Proibição de Uso Comercial**: O conteúdo deste repositório não pode ser usado para fins comerciais sem permissão expressa por escrito.
+- **Proibição de Reprodução e Cópia**: A reprodução, cópia ou redistribuição do código, ideias e conceitos aqui contidos são proibidas.
+- **Proibição de Modificação e Distribuição**: A modificação ou criação de trabalhos derivados baseados neste projeto, para qualquer fim, não é permitida sem autorização prévia.
+
+### Licença CC BY-NC-ND 4.0
+- Consulte a licença completa em [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International](https://creativecommons.org/licenses/by-nc-nd/4.0/).
+
