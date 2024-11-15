@@ -31,3 +31,12 @@
 ---
 
 Sinta-se à vontade para acompanhar o desenvolvimento e contribuir com ideias e sugestões para melhorar o DoCarmo Acolhe!
+
+## Licença
+
+Este projeto está licenciado sob a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0). Você pode visualizar a licença completa [aqui](https://creativecommons.org/licenses/by-nc-nd/4.0/).
+
+**Resumo**:
+- **Atribuição**: Você deve dar o crédito apropriado ao autor.
+- **Não Comercial**: Não é permitido o uso para fins comerciais.
+- **Sem Derivações**: Não é permitida a modificação, adaptação ou criação de derivados deste projeto.
